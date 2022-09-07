@@ -1,7 +1,6 @@
 Package: MineICA
 Type: Package
 Title: Analysis of an ICA decomposition obtained on genomics data
-<<<<<<< HEAD
 Version: 1.36.1
 Date: 2012-03-16
 Author: Anne Biton
