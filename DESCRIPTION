@@ -1,7 +1,7 @@
 Package: MineICA
 Type: Package
 Title: Analysis of an ICA decomposition obtained on genomics data
-Version: 1.51.0
+Version: 1.51.1
 Date: 2012-03-16
 Author: Anne Biton
 Maintainer: Anne Biton <anne.biton@gmail.com>
@@ -30,3 +30,4 @@ Collate: 'AllClasses.R' 'AllGeneric.R' 'methods-IcaSet.R'
         'functions_enrich.R' 'functions.R' 'heatmap.plus.R'
         'heatmapsOnSel.R' 'runAn.R' 'compareGenes.R'
 biocViews: Visualization, MultipleComparison
+PackageStatus: Deprecated
